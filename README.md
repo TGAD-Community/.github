@@ -25,7 +25,9 @@ Once we receive and inspect your email submission:
 2. We will set up a dedicated public repository under the **TGAD Community** organization.
 3. A custom `README.md` will be generated with your credits, project details, and specified license.
 
-> ⚠️ **File Size Limits:** Individual files within your source folder must not exceed **100 MB** (GitHub standard push limit). Please optimize large assets or textures before compressing your archive.
+> ⚠️ **Repository & File Limits:** 
+> * Individual files within your source folder must not exceed **100 MB**.
+> * The overall total repository size must strictly be under **5 GB** (pushes exceeding 5 GB will be blocked by GitHub).
 
 ---
 
